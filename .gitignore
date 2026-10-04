@@ -4,6 +4,7 @@
 
 # markdown files
 *.md
+!README.md
 
 # next.js build output
 /.next/
